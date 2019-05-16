@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSmallAnimal", "ARSmallAnimal.csproj", "{F438A664-B4F8-F99B-ED1D-B5F1A03C2E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARSmallAnimal.Editor", "ARSmallAnimal.Editor.csproj", "{612A045F-E556-6248-7950-A3FF4346243C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F438A664-B4F8-F99B-ED1D-B5F1A03C2E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F438A664-B4F8-F99B-ED1D-B5F1A03C2E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F438A664-B4F8-F99B-ED1D-B5F1A03C2E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F438A664-B4F8-F99B-ED1D-B5F1A03C2E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{612A045F-E556-6248-7950-A3FF4346243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{612A045F-E556-6248-7950-A3FF4346243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{612A045F-E556-6248-7950-A3FF4346243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{612A045F-E556-6248-7950-A3FF4346243C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
